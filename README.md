@@ -1,2 +1,2 @@
 # Java
-These are my java codes backend algorithms
+These are my java backend algorithms
